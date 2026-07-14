@@ -6,12 +6,30 @@ build/
 .packages
 .pub-cache/
 
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Android
+android/local.properties
+android/.gradle/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
 # IDE
 .idea/
 .vscode/
+*.iml
 
 # History
 .history/
 
 # OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
