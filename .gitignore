@@ -1,0 +1,17 @@
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+
+# IDE
+.idea/
+.vscode/
+
+# History
+.history/
+
+# OS
+.DS_Store
